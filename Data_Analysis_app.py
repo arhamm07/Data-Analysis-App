@@ -13,7 +13,7 @@ from plotly.subplots import make_subplots
 st.set_page_config(page_title="Data Analysis App", page_icon="🧊", layout="wide")
 
 
-st.title("Data Science Portal")
+st.title("Data Analysis App")
 
 
 st.subheader(":grey[Welcome to the Data Analysis App. Upload your file and get started with your data.] " , divider = 'rainbow')
