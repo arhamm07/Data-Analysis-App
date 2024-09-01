@@ -10,7 +10,7 @@ import plotly.subplots as sp
 from plotly.subplots import make_subplots
 
 
-st.set_page_config(page_title="Data Science Portal", page_icon="🧊", layout="wide")
+st.set_page_config(page_title="Data Analysis App", page_icon="🧊", layout="wide")
 
 
 st.title("Data Science Portal")
