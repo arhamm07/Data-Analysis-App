@@ -16,7 +16,7 @@ st.set_page_config(page_title="Data Science Portal", page_icon="🧊", layout="w
 st.title("Data Science Portal")
 
 
-st.subheader(":grey[Welcome to the Data Science Portal. This is a platform for data scientists to share their work and collaborate with others.] " , divider = 'rainbow')
+st.subheader(":grey[Welcome to the Data Analysis App. Upload your file and get started with your data.] " , divider = 'rainbow')
 
 file = st.file_uploader("Upload your file", type = ["csv", "xlsx"])
 
